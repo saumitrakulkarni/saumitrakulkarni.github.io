@@ -1,6 +1,7 @@
 ---
 title: "Education"
 permalink: /education/
+author_profile: true
 ---
 <br>
 <b><span style="color:black">[Savitribai Phule Pune University](http://www.unipune.ac.in/)</span></b><br>
