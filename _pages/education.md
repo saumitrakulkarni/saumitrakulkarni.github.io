@@ -10,10 +10,8 @@ Master of Technology (M.Tech.) - Modeling and Simulation (2020-Pursuing)<br>
 Pune, Maharashtra, India.<br>
 <b>CPI :</b><br>
 <b>Coursework :</b> 
-<ul>
-<li>1. Mathematics - Real Analysis and Calculus, Complex Analysis, Vector Calculus, Linear Algebra, Probability Theory with R</li>
-<li>2. Computation - </li>
-</ul>
+<ul><li>Mathematics - Real Analysis and Calculus, Complex Analysis, Vector Calculus, Linear Algebra, Probability Theory with R</li>
+<li>Computation - </li></ul>
 
 <b><span style="color:black">[K.E. Society's Rajarambapu Institute of Technology](https://www.ritindia.edu/)</span></b><br>
 [Department of Automobile Engineering](https://www.ritindia.edu/Automobile/)<br>
