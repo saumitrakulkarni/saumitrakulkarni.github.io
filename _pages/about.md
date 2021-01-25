@@ -1,9 +1,3 @@
-About me
-------
-<li></li>
-<li></li>
-<li></li>
-
 ---
 permalink: /
 title: ""
